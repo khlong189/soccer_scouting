@@ -1,5 +1,9 @@
 # Soccer Scouting SQL Project
+
+## Introduction
 A (practical) personal SQL project on my genuine interest in soccer. This project aims to provide a streamlined solution for storing and analyzing data related to youth players' statistics. 
+
+## Project Objectives
 
 ## EER Diagram 
 ![diagram1](https://github.com/khlong189/soccer_scouting/assets/57957853/1714884b-386c-407f-a9f0-3bd9c48ef93d)
