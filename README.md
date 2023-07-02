@@ -2,7 +2,8 @@
 A (practical) personal SQL project on my genuine interest in soccer. This project aims to provide a streamlined solution for storing and analyzing data related to youth players' statistics. 
 
 ## EER Diagram 
-![diagram](https://github.com/khlong189/soccer_scouting/assets/57957853/bc346c71-944b-47c3-871a-0aeb36a0b84c)
+![diagram1](https://github.com/khlong189/soccer_scouting/assets/57957853/1714884b-386c-407f-a9f0-3bd9c48ef93d)
+
 
 ## Functional Dependencies
 - agents(agent_id) -> agents(first_name, last_name, agency_name, contact_info, num_client)
