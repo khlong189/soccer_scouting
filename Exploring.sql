@@ -59,7 +59,6 @@ WITH agent_popularity AS (
 	FROM players p 
 	JOIN agents a ON p.agent_id = a.agent_id
 )
-
 SELECT * 
 FROM agent_popularity
 WHERE agent_status is 'Renowned Agent';
