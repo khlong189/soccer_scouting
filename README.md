@@ -4,6 +4,13 @@
 A (practical) personal SQL project on my genuine interest in soccer. This project aims to provide a streamlined solution for storing and analyzing data related to youth players' statistics. 
 
 ## Project Objectives
+In order to look for an effective youth player, a scout needs to look at some of these factors:
+- What is the average number of goals scored by players in each academy (considering players with at least 15 games per seasons)?
+- Does a player has a shooting accuracy of at least 70%?
+- In terms of team play, how much does a player contribute to the team play (assist, number of big chances created, cross accuracy) considering he plays at least 10 games?
+- how many different awards does a player acquire in different seasons?
+- Whether a player is managed by a renowned agent?
+Utilizing SQL queries, I will use these questions to determine whether a player is worth pursuing or not.
 
 ## EER Diagram 
 ![diagram1](https://github.com/khlong189/soccer_scouting/assets/57957853/1714884b-386c-407f-a9f0-3bd9c48ef93d)
