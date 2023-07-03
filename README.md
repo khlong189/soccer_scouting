@@ -1,4 +1,5 @@
 # Soccer Scouting SQL Project
+![s](https://github.com/khlong189/soccer_scouting/assets/57957853/c485a88b-9820-4efa-b086-ed2785bc3585)
 
 ## Introduction
 A (practical) personal SQL project on my genuine interest in soccer. This project aims to provide a streamlined solution for storing and analyzing data related to youth players' statistics. 
