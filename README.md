@@ -4,6 +4,8 @@
 ## Introduction
 A (practical) personal SQL project on my genuine interest in soccer. This project aims to provide a streamlined solution for storing and analyzing data related to youth players' statistics. 
 
+No data folder is attached in my repo because the data is randomly generated.
+
 ## Project Objectives
 In order to look for an effective youth player, a scout needs to look at some of these factors:
 - What is the average number of goals scored by players in each academy (considering players with at least 15 games per seasons)?
