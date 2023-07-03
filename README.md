@@ -10,6 +10,7 @@ In order to look for an effective youth player, a scout needs to look at some of
 - In terms of team play, how much does a player contribute to the team play (assist, number of big chances created, cross accuracy) considering he plays at least 10 games?
 - how many different awards does a player acquire in different seasons?
 - Whether a player is managed by a renowned agent?
+  
 Utilizing SQL queries, I will use these questions to determine whether a player is worth pursuing or not.
 
 ## EER Diagram 
